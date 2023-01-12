@@ -1,6 +1,6 @@
 {
-    "name" : "cy-takout-rider-h5",
-    "appid" : "__UNI__30013D8",
+    "name" : "",
+    "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -65,8 +65,8 @@
     "mp-toutiao" : {
         "usingComponents" : true
     },
-    "uniStatistics" : {
-        "enable" : false
+    "uniStatistics": {  
+        "enable": false
     },
     "vueVersion" : "3"
 }
